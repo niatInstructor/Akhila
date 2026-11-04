@@ -1,0 +1,7 @@
+:root {
+    --primary-color: #2563eb;
+    --bg-dark: #0f172a;
+    --text-main: #f8fafc;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: sans-serif; background-color: var(--bg-dark); color: var(--text-main); }
